@@ -1,6 +1,6 @@
 cask "grove" do
-  version "0.1.4"
-  sha256 "b9aaba27261a2421f13c82f9bef969d95900d6bdfa634a76355d2a7e2615fbf0"
+  version "0.1.5"
+  sha256 "0053a357d556bcfce158c4d336827c74f2d46eb64a82a1f4dc111ff4cb4f9e98"
 
   url "https://github.com/mburisch/grove/releases/download/v#{version}/Grove-#{version}.zip"
   name "Grove"
