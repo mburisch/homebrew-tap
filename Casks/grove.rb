@@ -12,7 +12,7 @@ cask "grove" do
     strategy :github_latest
   end
 
-  depends_on :macos
+  depends_on macos: :golden_gate
 
   app "Grove.app"
 
